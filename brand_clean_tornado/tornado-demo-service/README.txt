@@ -1,0 +1,1 @@
+服务启动和停止方式：首先需要将【start.sh】和【stop.sh】文件放在服务启动文件目录下，使用【sudo chmod +x ./start.sh】和【sudo chmod +x ./stop.sh】命令给启动脚本添加可执行权限，然后运行【sudo ./start.sh】启动服务；运行【sudo ./stop.sh】可停止服务。

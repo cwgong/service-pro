@@ -1,0 +1,11 @@
+[I 200612 15:25:53 tornado-demo-service:123] Server Inititial Success! 
+[I 200612 15:26:13 tornado-demo-service:46] title: 《this is title》
+[I 200612 15:26:13 tornado-demo-service:47] content: this is content
+[I 200612 15:26:13 tornado-demo-service:51] result: this is content<MODEL1>this is content<MODEL2><FINAL_INFERENCE>
+[I 200612 15:26:13 tornado-demo-service:62] post success!   end - begin = 0:00:00.000358
+[I 200612 15:26:13 web:2246] 200 POST /analysis (::1) 1.21ms
+[I 200612 16:00:22 tornado-demo-service:46] title: 《this is title》
+[I 200612 16:00:22 tornado-demo-service:47] content: this is content
+[I 200612 16:00:22 tornado-demo-service:51] result: this is content<MODEL1>this is content<MODEL2><FINAL_INFERENCE>
+[I 200612 16:00:22 tornado-demo-service:62] post success!   end - begin = 0:00:00.000375
+[I 200612 16:00:22 web:2246] 200 POST /analysis (::1) 0.93ms
